@@ -39,7 +39,7 @@ public class MockDB : IMockDB
             new Animal()
             {
                 Id = 1,
-                name = "Chuj",
+                name = "Azor",
                 type = "Kot",
                 mass = 5,
                 color = "Rudy"
